@@ -1,3 +1,3 @@
 # first-demo
-this is my first repository for my understanding
+this is my first repository for my understanding.
 Author - m.kausik
